@@ -1,4 +1,4 @@
-# Official implementation: sensor modelling under temporal shift
+# Sensor-Based Substance Classification and Concentration Prediction
 
 Official, code-only implementation of a two-stage sensor-modelling study. The
 data span sequential acquisition periods whose distributions shift over time,
