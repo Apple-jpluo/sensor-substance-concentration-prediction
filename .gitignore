@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+dist/
+build/
+
+# Raw course data are kept local until redistribution rights are confirmed.
+data/raw/
+
+# Generated model objects and private-test submissions are local artifacts.
+artifacts/
+private_test_predictions*.csv

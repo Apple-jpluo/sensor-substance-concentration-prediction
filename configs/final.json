@@ -1,0 +1,18 @@
+{
+  "random_state": 42,
+  "classifier": {
+    "hidden_layer_sizes": [512, 256],
+    "activation": "relu",
+    "solver": "adam",
+    "alpha": 0.001,
+    "learning_rate_init": 0.001,
+    "max_iter": 1000
+  },
+  "regressor": {
+    "n_estimators": 300,
+    "max_depth": null,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt"
+  }
+}
